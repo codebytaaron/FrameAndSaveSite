@@ -1,8 +1,8 @@
-# Frame & Save Redesign
+Frame & Save Redesign – Website Showcase
 
 A minimalist, high-end website redesign for a local fine art custom framing business.
 
-## ⚠️ Usage Notice
+Usage Notice
 
 This project is shared for visibility and reference only.
 
@@ -10,13 +10,13 @@ Please do not use, copy, modify, deploy, or redistribute this project without co
 
 If you are interested in using this site, adapting it, or collaborating, reach out via the link in my bio.
 
----
-
-## Overview
+Overview
 
 Frame & Save Redesign is a modern rebuild of an outdated business website with a focus on clarity, trust, and a timeless premium feel.
 
-## Features
+The goal of this project is to present the brand in a more professional, modern, and trustworthy way.
+
+Features
 
 - Minimal, gallery-style layout  
 - Clear service navigation  
@@ -24,9 +24,16 @@ Frame & Save Redesign is a modern rebuild of an outdated business website with a
 - Contact form  
 - Mobile-friendly design  
 
-## Tech Used
+Tech Stack
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
+- React  
+- TypeScript  
+- Vite  
+- Tailwind CSS  
+
+Project Status
+
+Private / Showcase Only
+Access
+
+For demos, adaptations, or collaboration, reach out via the link in my bio.
