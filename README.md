@@ -1,6 +1,6 @@
 Frame & Save Redesign – Website Showcase
 
-A minimalist, high-end website redesign for a local fine art custom framing business.
+A minimalist, high-end website redesign for a local fine art custom framing business. If you want me to comeplete a project for you that is simliar please reach out. 
 
 Usage Notice
 
